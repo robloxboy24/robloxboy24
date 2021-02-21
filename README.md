@@ -8,5 +8,5 @@
 - 📫 How to reach me on discord: robloxboy24 (scripter)#0822
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robloxboy24&show_icons=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robloxboy24&show_icons=true&theme=kacho_ga)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robloxboy24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
