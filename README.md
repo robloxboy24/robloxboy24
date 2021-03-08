@@ -21,4 +21,4 @@ https://direct.me/robloxboy24
 
 
 
-Last Updated 3/8/2021 using ### MAGIC ✨
+<i>Last updated on 8th March 2021 using magic</i> ✨
