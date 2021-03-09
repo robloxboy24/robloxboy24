@@ -3,7 +3,7 @@ const fs = require('fs');
 const https = require('https');
 
 // API endpoint
-const url = 'https://dev.to/api/articles?username=<YOUR DEV USERNAME>';
+const url = 'https://dev.to/api/articles?username=Robloxboy24';
 
 function readWriteAsync() {
   // Get articles using HTTPS
