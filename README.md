@@ -18,6 +18,9 @@ https://direct.me/robloxboy24
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robloxboy24&repo=robloxboy24.github.io&theme=darcula)](https://github.com/robloxboy24/robloxboy24.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robloxboy24&repo=Bongo-Cat-Pi-Apps-Download&theme=maroongold)](https://github.com/robloxboy24/Bongo-Cat-Pi-Apps-Download)
 
+<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="robloxboy24"/></a>
+
+
 
 
 
