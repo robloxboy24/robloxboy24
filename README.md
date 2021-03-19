@@ -24,7 +24,7 @@ E
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+ - 
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
@@ -35,7 +35,7 @@ E
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-
+ 1. 
 <!--END_SECTION:activity-->
 
 </details>
