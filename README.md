@@ -11,6 +11,9 @@ https://direct.me/robloxboy24
 - 🤔 I’m looking for help with making a scratch to .EXE website
 - 📫 How to reach me on discord: robloxboy24 (scripter)#0822
 
+---
+
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube_@robloxboy24 scratch-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/UCnQuzHuOqSvglL3x7Co0CFg?sub_confirmation=1)
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
