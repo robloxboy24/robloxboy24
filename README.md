@@ -15,7 +15,24 @@ https://direct.me/robloxboy24
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
 
+---
 
+### 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+▶ [more videos...][youtube]
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activities</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 
 
