@@ -38,7 +38,7 @@ E
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
- 1. 
+1. 🗣 Commented on [#5](https://github.com/turtiustrek/taskmanager/issues/5) in [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager)
 <!--END_SECTION:activity-->
 
 </details>
