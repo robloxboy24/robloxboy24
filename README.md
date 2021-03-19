@@ -17,9 +17,14 @@ https://direct.me/robloxboy24
 
 ---
 
+E
+
+---
+
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
@@ -30,6 +35,7 @@ https://direct.me/robloxboy24
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
