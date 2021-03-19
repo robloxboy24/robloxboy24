@@ -12,6 +12,10 @@ https://direct.me/robloxboy24
 - 📫 How to reach me on discord: robloxboy24 (scripter)#0822
 
 
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
+
+
 
 [![Robloxboy24's GitHub stats](https://github-readme-stats.vercel.app/api?username=robloxboy24&show_icons=true&theme=kacho_ga)](https://github.com/robloxboy24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robloxboy24&layout=compact&theme=slateorange)](https://github.com/robloxboy24)
@@ -24,4 +28,5 @@ https://direct.me/robloxboy24
 
 
 
-
+[website]: https://robloxboy24.github.io
+[youtube]: https://www.youtube.com/channel/UCnQuzHuOqSvglL3x7Co0CFg
