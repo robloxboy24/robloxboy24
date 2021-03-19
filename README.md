@@ -27,7 +27,11 @@ E
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
- - 
+- [A low quality video.](https://www.youtube.com/watch?v=q5-KSSnyVDg)
+- [TOH Play](https://www.youtube.com/watch?v=-a5_B5sQVpc)
+- [My new intro! :D](https://www.youtube.com/watch?v=0n1fRBb1djc)
+- [How to customise your cursor!](https://www.youtube.com/watch?v=l0QtD-qlO-A)
+- [How to get free headless head! (Roblox)](https://www.youtube.com/watch?v=AAFJo56QLc0)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
