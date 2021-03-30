@@ -56,7 +56,7 @@ E
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/turtiustrek/taskmanager/issues/8) in [turtiustrek/taskmanager](https://github.com/turtiustrek/taskmanager)
+1. ❗️ Opened issue [#2](https://github.com/omidnikrah/profile-activity-generator/issues/2) in [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator)
 <!--END_SECTION:activity-->
 
 </details>
