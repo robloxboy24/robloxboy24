@@ -38,6 +38,11 @@ E
 
 ---
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m72ae80vbhfkhvwqm7ziqzh8w&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=m72ae80vbhfkhvwqm7ziqzh8w&redirect=true)
 
 ---
