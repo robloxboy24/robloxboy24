@@ -43,7 +43,7 @@ E
 
 ---
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robloxboy24&layout=wide)](https://github.com/robloxboy24)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robloxboy24&show_border=on)](https://github.com/robloxboy24)
 
 ---
 
