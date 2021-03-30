@@ -38,6 +38,10 @@ E
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m72ae80vbhfkhvwqm7ziqzh8w&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=m72ae80vbhfkhvwqm7ziqzh8w&redirect=true)
+
+---
+
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
   
